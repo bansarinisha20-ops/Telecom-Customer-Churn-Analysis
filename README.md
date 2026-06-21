@@ -91,7 +91,7 @@ The interactive Tableau dashboard provides:
 
 ### Main Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
